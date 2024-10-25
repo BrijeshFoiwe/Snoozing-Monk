@@ -19,44 +19,39 @@ require_once "./mail_handler.php";
     <section class="container py-0 home-banner">
       <div class="home-container d-flex justify-content-center ">
         <div class="d-flex flex-column align-items-center justify-content-center gap-0 ">
-          <p>From a single desk to a whole building. The choice is yours.</p>
-          <h1>Office space your way.</h1>
+          <p>Find the perfect workspace tailored to fit your needs and style.</p>
+          <h1>Workspace tailored to you.</h1>
         </div>
       </div>
     </section>
 
     <!-- Cards -->
     <section class="container mt-5 py-0">
-      <div class="d-flex flex-wrap flex-lg-nowrap  card-wrapper justify-content-center align-items-center gap-4">
+      <div class="d-flex flex-wrap flex-lg-nowrap  card-wrapper justify-content-center align-items-center gap-2 gap-lg-4">
         <a href="" class="card-container col-5 col-lg">
-          <img class="card-icon" src="./assets/images/platform_icon.svg" alt="">
-          <h3>Our solutions</h3>
-          <p>Browse our full range of products and services</p>
+          <img class="card-icon" src="./assets/images/our-offerings.svg" alt="">
+          <h3>Our Offerings</h3>
+          <p>Discover innovative options tailored to your business needs</p>
         </a>
         <a href="" class="card-container col-5 col-lg">
-          <img class="card-icon" src="./assets/images/platform_icon.svg" alt="">
-          <h3>Our solutions</h3>
-          <p>Browse our full range of products and services</p>
+          <img class="card-icon" src="./assets/images/connect-with-us.svg" alt="">
+          <h3>Connect with Us</h3>
+          <p>Reach out for personalized assistance and guidance today</p>
         </a>
         <a href="" class="card-container col-5 col-lg">
-          <img class="card-icon" src="./assets/images/platform_icon.svg" alt="">
-          <h3>Our solutions</h3>
-          <p>Browse our full range of products and services</p>
+          <img class="card-icon" src="./assets/images/reserve-workspace.svg" alt="">
+          <h3>Reserve Workspace</h3>
+          <p>Reserve your ideal workspace for productive work sessions</p>
         </a>
         <a href="" class="card-container col-5 col-lg">
-          <img class="card-icon" src="./assets/images/platform_icon.svg" alt="">
-          <h3>Our solutions</h3>
-          <p>Browse our full range of products and services</p>
+          <img class="card-icon" src="./assets/images/virtual-office.svg" alt="">
+          <h3>Create a Virtual Office</h3>
+          <p>Establish a professional presence without physical office space</p>
         </a>
         <a href="" class="card-container col-5 col-lg">
-          <img class="card-icon" src="./assets/images/platform_icon.svg" alt="">
-          <h3>Our solutions</h3>
-          <p>Browse our full range of products and services</p>
-        </a>
-        <a href="" class="card-container col-5 col-lg">
-          <img class="card-icon" src="./assets/images/platform_icon.svg" alt="">
-          <h3>Our solutions</h3>
-          <p>Browse our full range of products and services</p>
+          <img class="card-icon" src="./assets/images/purchase-membership.svg" alt="">
+          <h3>Purchase a Membership</h3>
+          <p>Join our community for exclusive benefits and access</p>
         </a>
       </div>
     </section>
@@ -234,13 +229,14 @@ require_once "./mail_handler.php";
       <div class="monk-layout row gap-4 gap-md-0">
         <div class="col-12 col-lg d-flex justify-content-center">
           <div class="monk-layout-image">
-            <img src="./assets/images/Homepage_Benefits_Wherever.webp" alt="">
+            <img src="./assets/images/Workcation.webp" alt="">
           </div>
         </div>
         <div class="col-12 col-md d-flex flex-column justify-content-center align-items-start">
           <div class="monk-layout-content ">
-            <h2>Work wherever business takes you.</h2>
-            <p>With over 4000 locations globally we have offices, coworking spaces and meeting rooms in every major town, city, and transport hub.</p>
+            <h2>Work at comfort from a Workcation locaiton.</h2>
+            <p>Enjoy the comfort of working from a beautiful workcation location, combining productivity with relaxation. 
+              Embrace a change of scenery while maintaining your workflow.</p>
             <a href="">Talk to Expert</a>
           </div>
         </div>

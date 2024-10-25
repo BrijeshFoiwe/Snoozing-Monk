@@ -122,46 +122,46 @@ function getOfficeSpaceTab()
 {
 ?>
     <div class="image-card">
-        <p>Our flexible, fully-customisable office rentals are available by the hour, day, or as long as you need.</p>
+        <p>Our adaptable, fully customizable office rentals are available hourly, daily, or for any duration you require.</p>
         <div class="d-flex justify-content-between gap-3">
             <div class="card">
-                <img src="./assets/images/Office_Space_Card_Stacked_1.webp" class="card-img-top" alt="...">
+                <img src="./assets/images/Private-office.webp" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <h5 class="card-title">Private offices</h5>
+                    <p class="card-text">A variety of fully equipped, ready-to-use offices with all essentials for getting started.</p>
                     <a href="#" class="image-card-btn">Learn More</a>
                 </div>
             </div>
             <div class="card">
-                <img src="./assets/images/Office_Space_Card_Stacked_1.webp" class="card-img-top" alt="...">
+                <img src="./assets/images/custom-offices.webp" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <h5 class="card-title">Custom Offices</h5>
+                    <p class="card-text">When standard options fall short, customize every detail of your space, from furniture to branding.</p>
                     <a href="#" class="image-card-btn">Learn More</a>
                 </div>
             </div>
             <div class="card">
-                <img src="./assets/images/Office_Space_Card_Stacked_1.webp" class="card-img-top" alt="...">
+                <img src="./assets/images/day-office.webp" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <h5 class="card-title">Day Offices</h5>
+                    <p class="card-text">A professional office space on demand. Ideal when you need to focus and do your best work.</p>
                     <a href="#" class="image-card-btn">Learn More</a>
                 </div>
             </div>
             <div class="card">
-                <img src="./assets/images/Office_Space_Card_Stacked_1.webp" class="card-img-top" alt="...">
+                <img src="./assets/images/office-membership.webp" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <h5 class="card-title">Office Membership</h5>
+                    <p class="card-text">Enjoy flexible access to Day Offices whenever you like, within this building.</p>
                     <a href="#" class="image-card-btn">Learn More</a>
                 </div>
             </div>
             <div class="card">
-                <img src="./assets/images/Office_Space_Card_Stacked_1.webp" class="card-img-top" alt="...">
+                <img src="./assets/images/support.webp" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <a href="#" class="image-card-btn">Learn More</a>
+                    <h5 class="card-title">Need some assistance?</h5>
+                    <p class="card-text">Looking for assistance? Our team is here to help you with any questions or concerns.</p>
+                    <a href="#" class="image-card-btn">Talk to an Expert</a>
                 </div>
             </div>
         </div>
