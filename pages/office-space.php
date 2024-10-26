@@ -21,17 +21,16 @@ require_once "../mail_handler.php";
                 <div class="col d-flex flex-column justify-content-center gap-4 align-items-start">
                     <h1>Office Space.</h1>
                     <p>
-                        If you’re looking for beautifully-designed office space for rent, ours are suitable for any size of team and come fully serviced.
-                        So you can concentrate on growing your business distraction-free.
-                        Whether you need something for the short term, longer term or want to take a flexible approach,
-                        we’ve got an office space rental solution to suit you.
+                    If you're seeking beautifully designed office spaces for rent, ours accommodate teams of any size and come fully serviced, 
+                    allowing you to focus on growing your business without distractions. Whether you need a short-term solution, 
+                    a long-term setup, or prefer a flexible approach, we have the perfect office rental option to meet your needs.
                     </p>
 
                     <a href="" class="service-btn">Get in Touch</a>
 
                 </div>
                 <div class="col d-flex justify-content-center align-items-center">
-                    <img src="../assets/images/Office_Space_Hero.webp" alt="">
+                    <img src="../assets/images/office-space-service.png" alt="">
                 </div>
 
             </div>
@@ -41,7 +40,7 @@ require_once "../mail_handler.php";
         <!-- Tabs -->
         <section class="monk-section">
             <div class="container">
-                <h2>Flexible workspace designed around your needs</h2>
+                <h2>Customizable workspace tailored to your requirements.</h2>
                 <div class="d-none d-lg-block">
                     <?php getOfficeSpaceTab(); ?>
                 </div>
@@ -56,59 +55,57 @@ require_once "../mail_handler.php";
             <!-- Layout 1 -->
             <div class=" d-flex flex-column flex-lg-row service-monk-layout-wrapper">
                 <div class="col d-flex flex-column justify-content-center  service-monk-content">
-                    <h2>Our office space rental includes so much more.</h2>
+                    <h2>Our office space rentals offer much more.</h2>
                     <p>
-                        Regus office space comes with everything you need to hit the ground running.
-                        From ergonomic furniture to support services.
-                        And you even get access to break-out areas and our global network of business lounges.</p>
+                    Snoozing Monk office spaces provide everything you need to get started seamlessly, from ergonomic furniture to dedicated support services. 
+                    You'll also enjoy access to breakout areas and our global network of business lounges.</p>
                 </div>
-                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/Office_Space_Image_with_Description_1.webp" alt=""></div>
+                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/space-rental.png" alt=""></div>
             </div>
 
             <!-- Layout 2 -->
             <div class="d-flex flex-column flex-lg-row-reverse  service-monk-layout-wrapper">
                 <div class="col d-flex flex-column justify-content-center  service-monk-content-mid">
-                    <h2>Our office space rental includes so much more.</h2>
+                    <h2>Adaptable office space that scales with your needs.</h2>
                     <p>
-                        Regus office space comes with everything you need to hit the ground running.
-                        From ergonomic furniture to support services.
-                        And you even get access to break-out areas and our global network of business lounges.</p>
+                    Our flexible office spaces are designed to grow alongside your business.
+                     As your needs evolve, we offer scalable options that allow you to expand without the hassle of relocating.
+                      Enjoy a workspace that adapts to your team size, project demands, and goals, providing the flexibility to thrive at every stage.</p>
                 </div>
-                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/Office_Space_Image_with_Description_1.webp" alt=""></div>
+                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/Flexible-office.png" alt=""></div>
             </div>
             <!-- Layout 3 -->
             <div class=" d-flex flex-column flex-lg-row service-monk-layout-wrapper">
                 <div class="col d-flex flex-column justify-content-center  service-monk-content">
-                    <h2>Our office space rental includes so much more.</h2>
+                    <h2>An office fully customizable and entirely yours.</h2>
                     <p>
-                        Regus office space comes with everything you need to hit the ground running.
-                        From ergonomic furniture to support services.
-                        And you even get access to break-out areas and our global network of business lounges.</p>
+                    If you're searching for beautifully designed office space for rent, Snoozing Monk provides fully serviced options that suit any team size, letting you focus on growing your business distraction-free. Whether you need a short-term setup,
+                     a long-term solution, or the flexibility to adapt as you go, we have an office rental tailored to fit your needs perfectly.</p>
                 </div>
-                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/Office_Space_Image_with_Description_1.webp" alt=""></div>
+                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/custom-office.png" alt=""></div>
             </div>
         </section>
 
         <!-- Steps -->
         <section class="service-steps container">
             <div class="">
-                <h2>Rent an office in 3 easy steps.</h2>
+                <h2>Secure an office in three simple steps.</h2>
             </div>
             <div class="d-flex flex-column flex-lg-row align-items-start gap-4 pt-4">
-                <div class="d-flex flex-column justify-content-center align-items-start gap-2 ">
-                    <h4>1. Choose and configure your office space</h4>
-                    <p>Here's where you get to choose the location, the number of people who can use the space, and what sort of layout would best suit the way they work.</p>
-                    <img src="/assets/images/Office_Space_Pricing_Step_1.webp" alt="">
+                <div class="d-flex flex-column col justify-content-center align-items-start gap-2 ">
+                    <h4>1. Select and customize your office space</h4>
+                    <p>Here, you can select the location, determine the number of users, and decide on the layout that best fits their work style.</p>
+                    <img src="/assets/images/step1.png" alt="">
                 </div>
-                <div class="d-flex flex-column  justify-content-center align-items-start gap-2">
-                    <h4>1. Choose and configure your office space</h4>
-                    <p>Here's where you get to choose the location, the number of people who can use the space, and what sort of layout would best suit the way they work.</p>
-                    <img src="/assets/images/Office_Space_Pricing_Step_1.webp" alt="">
+                <div class="d-flex flex-column col justify-content-center align-items-start gap-2">
+                    <h4>2. Enhance and personalize it.</h4>
+                    <p>Next, use our 'Design Your Office' service to customize your space. Alternatively, we can handle specifications for you.</p>
+                    <img src="/assets/images/step2.png" alt="">
                 </div>
-                <div class="d-flex flex-column  justify-content-center align-items-start gap-2">
-                    <h4>1. Choose and configure your office space</h4>
-                    <p>Here's where you get to choose the location, the number of people who can use the space, and what sort of layout would best suit the way they work.</p>
-                    <img src="/assets/images/Office_Space_Pricing_Step_1.webp" alt="">
+                <div class="d-flex flex-column col justify-content-center align-items-start gap-2">
+                    <h4>3. Simply sign up and get settled</h4>
+                    <p>Once you sign your contract, you can start in your new space. Our experts will handle all details and last-minute adjustments.</p>
+                    <img src="/assets/images/step3.png" alt="">
                 </div>
             </div>
         </section>

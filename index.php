@@ -28,27 +28,27 @@ require_once "./mail_handler.php";
     <!-- Cards -->
     <section class="container mt-5 py-0">
       <div class="d-flex flex-wrap flex-lg-nowrap  card-wrapper justify-content-center align-items-center gap-2 gap-lg-4">
-        <a href="" class="card-container col-5 col-lg">
+        <a href="" class="card-container col col-md-5 col-lg">
           <img class="card-icon" src="./assets/images/our-offerings.svg" alt="">
           <h3>Our Offerings</h3>
           <p>Discover innovative options tailored to your business needs</p>
         </a>
-        <a href="" class="card-container col-5 col-lg">
+        <a href="" class="card-container col col-md-5 col-lg">
           <img class="card-icon" src="./assets/images/connect-with-us.svg" alt="">
           <h3>Connect with Us</h3>
           <p>Reach out for personalized assistance and guidance today</p>
         </a>
-        <a href="" class="card-container col-5 col-lg">
+        <a href="" class="card-container col col-md-5 col-lg">
           <img class="card-icon" src="./assets/images/reserve-workspace.svg" alt="">
           <h3>Reserve Workspace</h3>
           <p>Reserve your ideal workspace for productive work sessions</p>
         </a>
-        <a href="" class="card-container col-5 col-lg">
+        <a href="" class="card-container col col-md-5 col-lg">
           <img class="card-icon" src="./assets/images/virtual-office.svg" alt="">
           <h3>Create a Virtual Office</h3>
           <p>Establish a professional presence without physical office space</p>
         </a>
-        <a href="" class="card-container col-5 col-lg">
+        <a href="" class="card-container col col-md-5 col-lg">
           <img class="card-icon" src="./assets/images/purchase-membership.svg" alt="">
           <h3>Purchase a Membership</h3>
           <p>Join our community for exclusive benefits and access</p>
@@ -59,7 +59,7 @@ require_once "./mail_handler.php";
     <!-- Tabs -->
     <section class="monk-section">
       <div class="container">
-        <h2>Flexible workspace designed around your needs</h2>
+        <h2>Customizable workspace tailored to your requirements.</h2>
         <!-- Desktop tab -->
         <div class="monk-tab d-none d-lg-block">
           <ul class="nav nav-tabs" id="myTab" role="tablist">
@@ -246,14 +246,15 @@ require_once "./mail_handler.php";
       <div class="monk-layout row flex-column-reverse flex-lg-row p-0  gap-4 gap-md-0">
         <div class="col-12 col-lg d-flex flex-column justify-content-center align-items-start">
           <div class="monk-layout-content-mid">
-            <h2>If your needs change, we’re flexible.</h2>
-            <p>With over 4000 locations globally we have offices, coworking spaces and meeting rooms in every major town, city, and transport hub.</p>
+            <h2>If your needs evolve, we adapt.</h2>
+            <p>If your needs evolve, we adapt to ensure your workspace remains aligned with your goals. Our flexible options allow for adjustments 
+              as your business or personal requirements change, keeping your experience seamless and tailored.</p>
             <a href="">Talk to Expert</a>
           </div>
         </div>
         <div class="col-12 col-md d-flex justify-content-center">
           <div class="monk-layout-image">
-            <img src="./assets/images/Homepage_Benefits_Wherever.webp" alt="">
+            <img src="./assets/images/adapt.png" alt="">
           </div>
         </div>
       </div>
@@ -262,13 +263,14 @@ require_once "./mail_handler.php";
       <div class="monk-layout row  gap-4 gap-md-0">
         <div class="col-12 col-lg d-flex justify-content-center">
           <div class="monk-layout-image">
-            <img src="./assets/images/Homepage_Benefits_Wherever.webp" alt="">
+            <img src="./assets/images/Hybrid.png" alt="">
           </div>
         </div>
         <div class="col-12 col-md d-flex flex-column justify-content-center align-items-start">
           <div class="monk-layout-content ">
-            <h2>Hybrid working can work for you.</h2>
-            <p>With over 4000 locations globally we have offices, coworking spaces and meeting rooms in every major town, city, and transport hub.</p>
+            <h2>Make hybrid working work for you.</h2>
+            <p>Embrace the flexibility of hybrid working, designed to fit your unique lifestyle and professional needs. With a blend of in-office and remote options, 
+              hybrid work empowers you to balance productivity and personal time, fostering both efficiency and well-being.</p>
             <a href="">Talk to Expert</a>
           </div>
         </div>
@@ -280,12 +282,12 @@ require_once "./mail_handler.php";
       <h2>We host the best in our spaces.</h2>
       <!-- Desktop logos -->
       <div class="row d-none d-md-flex row-cols-3 row-cols-lg-6">
-        <div class="col logo-grid-item"><img src="./assets/images/MicrosoftLogo.webp" alt=""></div>
-        <div class="col logo-grid-item"><img src="./assets/images/MicrosoftLogo.webp" alt=""></div>
-        <div class="col logo-grid-item"><img src="./assets/images/MicrosoftLogo.webp" alt=""></div>
-        <div class="col logo-grid-item"><img src="./assets/images/MicrosoftLogo.webp" alt=""></div>
-        <div class="col logo-grid-item"><img src="./assets/images/MicrosoftLogo.webp" alt=""></div>
-        <div class="col logo-grid-item"><img src="./assets/images/MicrosoftLogo.webp" alt=""></div>
+        <div class="col logo-grid-item"><img src="./assets/images/foiwe.webp" alt=""></div>
+        <div class="col logo-grid-item"><img src="./assets/images/carzippi.webp" alt=""></div>
+        <div class="col logo-grid-item"><img src="./assets/images/graphene.webp" alt=""></div>
+        <div class="col logo-grid-item"><img src="./assets/images/proflakes.webp" alt=""></div>
+        <div class="col logo-grid-item"><img src="./assets/images/verbiden.webp" alt=""></div>
+        <div class="col logo-grid-item"><img src="./assets/images/hvpl.webp" alt=""></div>
       </div>
       <!-- Mobile Logos -->
       <div id="monkLogoCarousel" class="carousel slide d-block d-md-none">
