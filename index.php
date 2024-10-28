@@ -84,43 +84,7 @@ require_once "./mail_handler.php";
             </div>
             <!-- Tab2 -->
             <div class="tab-pane fade" id="coworking" role="tabpanel" aria-labelledby="cowork-tab" tabindex="0">
-              <div class="image-card">
-                <p>Hot desk for the day, or reserve a Dedicated Desk space across thousands of locations.</p>
-                <div class="d-flex justify-content-start gap-3">
-                  <div class="card">
-                    <img src="./assets/images/Office_Space_Card_Stacked_1.webp" class="card-img-top" alt="...">
-                    <div class="card-body">
-                      <h5 class="card-title">Card title</h5>
-                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                      <a href="#" class="image-card-btn">Learn More</a>
-                    </div>
-                  </div>
-                  <div class="card">
-                    <img src="./assets/images/Office_Space_Card_Stacked_1.webp" class="card-img-top" alt="...">
-                    <div class="card-body">
-                      <h5 class="card-title">Card title</h5>
-                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                      <a href="#" class="image-card-btn">Learn More</a>
-                    </div>
-                  </div>
-                  <div class="card">
-                    <img src="./assets/images/Office_Space_Card_Stacked_1.webp" class="card-img-top" alt="...">
-                    <div class="card-body">
-                      <h5 class="card-title">Card title</h5>
-                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                      <a href="#" class="image-card-btn">Learn More</a>
-                    </div>
-                  </div>
-                  <div class="card">
-                    <img src="./assets/images/Office_Space_Card_Stacked_1.webp" class="card-img-top" alt="...">
-                    <div class="card-body">
-                      <h5 class="card-title">Card title</h5>
-                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                      <a href="#" class="image-card-btn">Learn More</a>
-                    </div>
-                  </div>
-                </div>
-              </div>
+              <?php getCoworking() ?>
             </div>
             <!-- Tab3 -->
             <div class="tab-pane fade" id="virtual-offices" role="tabpanel" aria-labelledby="virtual-office-tab" tabindex="0">
@@ -278,49 +242,7 @@ require_once "./mail_handler.php";
     </section>
 
     <!-- Logos -->
-    <section class="container company-logo">
-      <h2>We host the best in our spaces.</h2>
-      <!-- Desktop logos -->
-      <div class="row d-none d-md-flex row-cols-3 row-cols-lg-6">
-        <div class="col logo-grid-item"><img src="./assets/images/foiwe.webp" alt=""></div>
-        <div class="col logo-grid-item"><img src="./assets/images/carzippi.webp" alt=""></div>
-        <div class="col logo-grid-item"><img src="./assets/images/graphene.webp" alt=""></div>
-        <div class="col logo-grid-item"><img src="./assets/images/proflakes.webp" alt=""></div>
-        <div class="col logo-grid-item"><img src="./assets/images/verbiden.webp" alt=""></div>
-        <div class="col logo-grid-item"><img src="./assets/images/hvpl.webp" alt=""></div>
-      </div>
-      <!-- Mobile Logos -->
-      <div id="monkLogoCarousel" class="carousel slide d-block d-md-none">
-        <div class="carousel-inner">
-          <div class="carousel-item active">
-            <div class="d-flex mobile-logo align-items-center justify-content-center">
-              <div class="col logo-grid-item"><img src="./assets/images/MicrosoftLogo.webp" alt=""></div>
-              <div class="col logo-grid-item"><img src="./assets/images/MicrosoftLogo.webp" alt=""></div>
-            </div>
-          </div>
-          <div class="carousel-item">
-            <div class="d-flex mobile-logo align-items-center justify-content-center">
-              <div class="col logo-grid-item"><img src="./assets/images/MicrosoftLogo.webp" alt=""></div>
-              <div class="col logo-grid-item"><img src="./assets/images/MicrosoftLogo.webp" alt=""></div>
-            </div>
-          </div>
-          <div class="carousel-item">
-            <div class="d-flex mobile-logo align-items-center justify-content-center">
-              <div class="col logo-grid-item"><img src="./assets/images/MicrosoftLogo.webp" alt=""></div>
-              <div class="col logo-grid-item"><img src="./assets/images/MicrosoftLogo.webp" alt=""></div>
-            </div>
-          </div>
-        </div>
-        <button class="carousel-control-prev" type="button" data-bs-target="#monkLogoCarousel" data-bs-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="visually-hidden">Previous</span>
-        </button>
-        <button class="carousel-control-next" type="button" data-bs-target="#monkLogoCarousel" data-bs-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="visually-hidden">Next</span>
-        </button>
-      </div>
-    </section>
+    <?php getCompanyLogo() ?>
 
     <!-- Contact US -->
     <section class="contact-section">

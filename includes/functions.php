@@ -32,7 +32,7 @@ function getHeader()
                                 <a href="/office-space">Office Space</a>
                             </li>
                             <li class="nav-item">
-                                <a href="">Coworking</a>
+                                <a href="/coworking">Coworking</a>
                             </li>
                             <li class="nav-item">
                                 <a href="">Virtual Offices</a>
@@ -169,6 +169,48 @@ function getOfficeSpaceTab()
 <?php
 }
 
+function getCoworking(){
+    ?>
+        <div class="image-card">
+                <p>Book a hot desk for the day or secure a Dedicated Desk within the building.</p>
+                <div class="d-flex justify-content-start gap-3">
+                  <div class="card">
+                    <img src="./assets/images/reserved-workspace.webp" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title">Reserved Workspace</h5>
+                      <p class="card-text">Reserve desks as needed in a vibrant shared workspace. Includes a business address and storage.</p>
+                      <a href="#" class="image-card-btn">Learn More</a>
+                    </div>
+                  </div>
+                  <div class="card">
+                    <img src="./assets/images/daily-coworking.webp" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title">Daily Coworking</h5>
+                      <p class="card-text">Get on-demand access to inspiring coworking spaces, ensuring a desk is available when you need it.</p>
+                      <a href="#" class="image-card-btn">Learn More</a>
+                    </div>
+                  </div>
+                  <div class="card">
+                    <img src="./assets/images/coworking-pass.webp" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title">Coworking Pass</h5>
+                      <p class="card-text">Looking to hot desk more often? Rent a desk for 5, 10, or unlimited days per month.</p>
+                      <a href="#" class="image-card-btn">Learn More</a>
+                    </div>
+                  </div>
+                  <div class="card">
+                    <img src="./assets/images/support.webp" class="card-img-top" alt="...">
+                    <div class="card-body">
+                    <h5 class="card-title">Need some assistance?</h5>
+                    <p class="card-text">Looking for assistance? Our team is here to help you with any questions or concerns.</p>
+                    <a href="#" class="image-card-btn">Talk to an Expert</a>
+                     </div>
+                    </div>
+                </div>
+              </div>
+    <?php
+}
+
 function getOfficeSpaceMobileCarousel()
 {
 ?>
@@ -250,4 +292,52 @@ function getOfficeSpaceMobileCarousel()
         </button>
     </div>
 <?php
+}
+
+function getCompanyLogo(){
+    ?>
+      <section class="container company-logo">
+      <h2>We host the best in our spaces.</h2>
+      <!-- Desktop logos -->
+      <div class="row d-none d-md-flex row-cols-3 row-cols-lg-6">
+        <div class="col logo-grid-item"><img src="./assets/images/foiwe.webp" alt=""></div>
+        <div class="col logo-grid-item"><img src="./assets/images/carzippi.webp" alt=""></div>
+        <div class="col logo-grid-item"><img src="./assets/images/graphene.webp" alt=""></div>
+        <div class="col logo-grid-item"><img src="./assets/images/proflakes.webp" alt=""></div>
+        <div class="col logo-grid-item"><img src="./assets/images/verbiden.webp" alt=""></div>
+        <div class="col logo-grid-item"><img src="./assets/images/hvpl.webp" alt=""></div>
+      </div>
+      <!-- Mobile Logos -->
+      <div id="monkLogoCarousel" class="carousel slide d-block d-md-none">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <div class="d-flex mobile-logo align-items-center justify-content-center">
+              <div class="col logo-grid-item"><img src="./assets/images/MicrosoftLogo.webp" alt=""></div>
+              <div class="col logo-grid-item"><img src="./assets/images/MicrosoftLogo.webp" alt=""></div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="d-flex mobile-logo align-items-center justify-content-center">
+              <div class="col logo-grid-item"><img src="./assets/images/MicrosoftLogo.webp" alt=""></div>
+              <div class="col logo-grid-item"><img src="./assets/images/MicrosoftLogo.webp" alt=""></div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="d-flex mobile-logo align-items-center justify-content-center">
+              <div class="col logo-grid-item"><img src="./assets/images/MicrosoftLogo.webp" alt=""></div>
+              <div class="col logo-grid-item"><img src="./assets/images/MicrosoftLogo.webp" alt=""></div>
+            </div>
+          </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#monkLogoCarousel" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#monkLogoCarousel" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
+    </section>
+    <?php
 }

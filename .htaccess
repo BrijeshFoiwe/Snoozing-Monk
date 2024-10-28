@@ -3,3 +3,6 @@ RewriteEngine On
 
 # Rule to map /office-space to /pages/officespace.php
 RewriteRule ^office-space$ /pages/office-space.php [L]
+
+# Rule to map /coworking to /pages/coworking.php
+RewriteRule ^coworking$ /pages/coworking.php [L]
