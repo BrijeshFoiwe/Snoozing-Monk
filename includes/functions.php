@@ -35,10 +35,10 @@ function getHeader()
                                 <a href="/coworking">Coworking</a>
                             </li>
                             <li class="nav-item">
-                                <a href="">Virtual Offices</a>
+                                <a href="/virtual-office">Virtual Offices</a>
                             </li>
                             <li class="nav-item">
-                                <a href="">Meeting Rooms</a>
+                                <a href="/meeting-rooms">Meeting Rooms</a>
                             </li>
                             <li class="nav-item">
                                 <a href="">Event Space</a>
@@ -195,6 +195,47 @@ function getCoworking(){
                     <div class="card-body">
                       <h5 class="card-title">Coworking Pass</h5>
                       <p class="card-text">Looking to hot desk more often? Rent a desk for 5, 10, or unlimited days per month.</p>
+                      <a href="#" class="image-card-btn">Learn More</a>
+                    </div>
+                  </div>
+                  <div class="card">
+                    <img src="./assets/images/support.webp" class="card-img-top" alt="...">
+                    <div class="card-body">
+                    <h5 class="card-title">Need some assistance?</h5>
+                    <p class="card-text">Looking for assistance? Our team is here to help you with any questions or concerns.</p>
+                    <a href="#" class="image-card-btn">Talk to an Expert</a>
+                     </div>
+                    </div>
+                </div>
+              </div>
+    <?php
+}
+function getVirtualOffice(){
+    ?>
+        <div class="image-card">
+                <p>Whether you need a virtual presence or a physical space, we offer a package to fit your business needs.</p>
+                <div class="d-flex justify-content-start gap-3">
+                  <div class="card">
+                    <img src="./assets/images/address.webp" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title">Professional Address</h5>
+                      <p class="card-text">Establish your business and enhance credibility with a virtual address at our location.</p>
+                      <a href="#" class="image-card-btn">Learn More</a>
+                    </div>
+                  </div>
+                  <div class="card">
+                    <img src="./assets/images/Virtual-office.webp" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title">Virtual Office</h5>
+                      <p class="card-text">A reputable address with call answering, virtual reception, and business lounge access.</p>
+                      <a href="#" class="image-card-btn">Learn More</a>
+                    </div>
+                  </div>
+                  <div class="card">
+                    <img src="./assets/images/virtual-office-meeting.webp" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title">Virtual Office Plus</h5>
+                      <p class="card-text">Includes all Virtual Office features, plus meeting rooms and five days of office access monthly.</p>
                       <a href="#" class="image-card-btn">Learn More</a>
                     </div>
                   </div>

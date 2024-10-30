@@ -6,3 +6,9 @@ RewriteRule ^office-space$ /pages/office-space.php [L]
 
 # Rule to map /coworking to /pages/coworking.php
 RewriteRule ^coworking$ /pages/coworking.php [L]
+
+# Rule to map /virtual-office to /pages/virtual-office.php
+RewriteRule ^virtual-office$ /pages/virtual-office.php [L]
+
+# Rule to map /meeting-rooms to /pages/meeting-rooms.php
+RewriteRule ^meeting-rooms$ /pages/meeting-rooms.php [L]

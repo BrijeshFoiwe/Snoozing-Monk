@@ -88,43 +88,7 @@ require_once "./mail_handler.php";
             </div>
             <!-- Tab3 -->
             <div class="tab-pane fade" id="virtual-offices" role="tabpanel" aria-labelledby="virtual-office-tab" tabindex="0">
-              <div class="image-card">
-                <p>Depending on how virtual or physical your presence needs to be, we have a package to suit your business.</p>
-                <div class="d-flex justify-content-start gap-3">
-                  <div class="card">
-                    <img src="./assets/images/Office_Space_Card_Stacked_1.webp" class="card-img-top" alt="...">
-                    <div class="card-body">
-                      <h5 class="card-title">Card title</h5>
-                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                      <a href="#" class="image-card-btn">Learn More</a>
-                    </div>
-                  </div>
-                  <div class="card">
-                    <img src="./assets/images/Office_Space_Card_Stacked_1.webp" class="card-img-top" alt="...">
-                    <div class="card-body">
-                      <h5 class="card-title">Card title</h5>
-                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                      <a href="#" class="image-card-btn">Learn More</a>
-                    </div>
-                  </div>
-                  <div class="card">
-                    <img src="./assets/images/Office_Space_Card_Stacked_1.webp" class="card-img-top" alt="...">
-                    <div class="card-body">
-                      <h5 class="card-title">Card title</h5>
-                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                      <a href="#" class="image-card-btn">Learn More</a>
-                    </div>
-                  </div>
-                  <div class="card">
-                    <img src="./assets/images/Office_Space_Card_Stacked_1.webp" class="card-img-top" alt="...">
-                    <div class="card-body">
-                      <h5 class="card-title">Card title</h5>
-                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                      <a href="#" class="image-card-btn">Learn More</a>
-                    </div>
-                  </div>
-                </div>
-              </div>
+              <?php getVirtualOffice() ?>
             </div>
             <!-- Tab4 -->
             <div class="tab-pane fade" id="meeting-room" role="tabpanel" aria-labelledby="meeting-tab" tabindex="0">
