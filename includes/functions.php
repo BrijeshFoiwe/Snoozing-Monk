@@ -41,7 +41,7 @@ function getHeader()
                                 <a href="/meeting-rooms">Meeting Rooms</a>
                             </li>
                             <li class="nav-item">
-                                <a href="">Event Space</a>
+                                <a href="/event-space">Event Space</a>
                             </li>
                             <li class="nav-item org-btn">
                                 <a href="">Contact us</a>
@@ -247,6 +247,57 @@ function getVirtualOffice(){
                     <a href="#" class="image-card-btn">Talk to an Expert</a>
                      </div>
                     </div>
+                 </div>
+              </div>
+    <?php
+}
+
+function getMeetingRoom(){
+    ?>
+         <div class="image-card">
+                <p>Meeting rooms tailored for any purpose, available worldwide. Book by the hour, the day, or for as long as needed.</p>
+                <div class="d-flex justify-content-between gap-3">
+                  <div class="card">
+                    <img src="./assets/images/meeting-rooms-tab.webp" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title">Meeting Rooms</h5>
+                      <p class="card-text">Ideal spaces for meetings, collaboration, and interviews. Book hourly, support available.</p>
+                      <a href="#" class="image-card-btn">Learn More</a>
+                    </div>
+                  </div>
+                  <div class="card">
+                    <img src="./assets/images/interview-room-tab.webp" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title">Interview rooms</h5>
+                      <p class="card-text">Private, professional spaces perfect for interviews, appraisals, or research groups.</p>
+                      <a href="#" class="image-card-btn">Learn More</a>
+                    </div>
+                  </div>
+                  <div class="card">
+                    <img src="./assets/images/Training-room-tab.webp" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title">Training Room</h5>
+                      <p class="card-text">Ideal for training sessions with dedicated space, desks, whiteboards, and screens.</p>
+                      <a href="#" class="image-card-btn">Learn More</a>
+                    </div>
+                  </div>
+                  <div class="card">
+                    <img src="./assets/images/Boardroom-tab.webp" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title">Boardrooms</h5>
+                      <p class="card-text">A professional boardroom available on-demand. Ideal for focused meetings and work.</p>
+                      <a href="#" class="image-card-btn">Learn More</a>
+                    </div>
+                  </div>
+                  <div class="card">
+                    <img src="./assets/images/support.webp" class="card-img-top" alt="...">
+                    <div class="card-body">
+                    <h5 class="card-title">Need some assistance?</h5>
+                    <p class="card-text">Looking for assistance? Our team is here to help you with any questions or concerns.</p>
+                    <a href="#" class="image-card-btn">Talk to an Expert</a>
+                     </div>
+                    </div>
+                 </div>
                 </div>
               </div>
     <?php

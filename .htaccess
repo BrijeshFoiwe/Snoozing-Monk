@@ -12,3 +12,6 @@ RewriteRule ^virtual-office$ /pages/virtual-office.php [L]
 
 # Rule to map /meeting-rooms to /pages/meeting-rooms.php
 RewriteRule ^meeting-rooms$ /pages/meeting-rooms.php [L]
+
+# Rule to map /event-space to /pages/event-space.php
+RewriteRule ^event-space$ /pages/event-space.php [L]

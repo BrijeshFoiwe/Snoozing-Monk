@@ -92,51 +92,7 @@ require_once "./mail_handler.php";
             </div>
             <!-- Tab4 -->
             <div class="tab-pane fade" id="meeting-room" role="tabpanel" aria-labelledby="meeting-tab" tabindex="0">
-              <div class="image-card">
-                <p>Meeting rooms to suit any purpose, anywhere in the world. Available by the hour, the day – or as long as you need.</p>
-                <div class="d-flex justify-content-between gap-3">
-                  <div class="card">
-                    <img src="./assets/images/Office_Space_Card_Stacked_1.webp" class="card-img-top" alt="...">
-                    <div class="card-body">
-                      <h5 class="card-title">Card title</h5>
-                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                      <a href="#" class="image-card-btn">Learn More</a>
-                    </div>
-                  </div>
-                  <div class="card">
-                    <img src="./assets/images/Office_Space_Card_Stacked_1.webp" class="card-img-top" alt="...">
-                    <div class="card-body">
-                      <h5 class="card-title">Card title</h5>
-                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                      <a href="#" class="image-card-btn">Learn More</a>
-                    </div>
-                  </div>
-                  <div class="card">
-                    <img src="./assets/images/Office_Space_Card_Stacked_1.webp" class="card-img-top" alt="...">
-                    <div class="card-body">
-                      <h5 class="card-title">Card title</h5>
-                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                      <a href="#" class="image-card-btn">Learn More</a>
-                    </div>
-                  </div>
-                  <div class="card">
-                    <img src="./assets/images/Office_Space_Card_Stacked_1.webp" class="card-img-top" alt="...">
-                    <div class="card-body">
-                      <h5 class="card-title">Card title</h5>
-                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                      <a href="#" class="image-card-btn">Learn More</a>
-                    </div>
-                  </div>
-                  <div class="card">
-                    <img src="./assets/images/Office_Space_Card_Stacked_1.webp" class="card-img-top" alt="...">
-                    <div class="card-body">
-                      <h5 class="card-title">Card title</h5>
-                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                      <a href="#" class="image-card-btn">Learn More</a>
-                    </div>
-                  </div>
-                </div>
-              </div>
+             <?php getMeetingRoom() ?>
             </div>
           </div>
         </div>

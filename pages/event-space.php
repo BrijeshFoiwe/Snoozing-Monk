@@ -19,7 +19,7 @@ require_once "../mail_handler.php";
         <section class="service-banner">
             <div class="container d-flex flex-column flex-lg-row justify-content-between service-banner-section">
                 <div class="col d-flex flex-column justify-content-center gap-4 align-items-start">
-                    <h1>Meeting Rooms.</h1>
+                    <h1>Event Space.</h1>
                     <p>
                     There are countless reasons you might need a place to meet. Fortunately, we offer a diverse selection of over 2 meeting rooms, ranging from small spaces to boardrooms and large conference facilities. 
                     You can book the meeting room you need for as long as necessary, all in just a matter of minutes
@@ -29,35 +29,26 @@ require_once "../mail_handler.php";
 
                 </div>
                 <div class="col d-flex justify-content-center align-items-center">
-                    <img src="../assets/images/Meeting Rooms.png" alt="">
+                    <img src="../assets/images/Event Space.png" alt="">
                 </div>
 
             </div>
         </section>
 
-
-        <!-- Tabs -->
-        <section class="monk-section">
-            <div class="container">
-                <h2>Customizable workspace tailored to your requirements.</h2>
-                <div class="d-none d-lg-block">
-                    <?php getMeetingRoom(); ?>
-                </div>
-                <!-- Mobile Carousel -->
-                <?php getOfficeSpaceMobileCarousel() ?>
-            </div>
-        </section>
-
+        <!-- Quote -->
+         <section class="container">
+            <h2 class="text-center lh-sm">We’ll assist you in organizing a memorable private or corporate event, from choosing the ideal venue to offering all the necessary support. </h2>
+         </section>
 
         <!-- Service Layouts -->
         <section class="service-monk-layout container ">
             <!-- Layout 1 -->
             <div class=" d-flex flex-column flex-lg-row service-monk-layout-wrapper">
                 <div class="col d-flex flex-column justify-content-center  service-monk-content">
-                    <h2>Meeting rooms for every need.</h2>
+                    <h2>Organize any type of event, anytime, anywhere.</h2>
                     <p>
-                    Our extensive selection of meeting rooms allows you to find the ideal space at any of our locations to meet your requirements. We offer large boardrooms and conference rooms for hosting events, as well as smaller spaces perfect for interviewing candidates, collaborating with your team,
-                     or impressing clients. Additionally, we provide purpose-built training facilities, fully equipped with everything you need.</p>
+                    There are many reasons to hold a private or corporate event, whether it's to celebrate your team's 
+                    achievements or to host networking events for business growth. No matter the occasion, we’re here to help you organize your event with style.</p>
                 </div>
                 <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/meeting-room-for-need.png" alt=""></div>
             </div>
