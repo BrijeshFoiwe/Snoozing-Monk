@@ -129,7 +129,7 @@ function getOfficeSpaceTab()
                 <div class="card-body">
                     <h5 class="card-title">Private offices</h5>
                     <p class="card-text">A variety of fully equipped, ready-to-use offices with all essentials for getting started.</p>
-                    <a href="#" class="image-card-btn">Learn More</a>
+                    <a href="#" class="image-card-btn">Enquire Now</a>
                 </div>
             </div>
             <div class="card">
@@ -137,7 +137,7 @@ function getOfficeSpaceTab()
                 <div class="card-body">
                     <h5 class="card-title">Custom Offices</h5>
                     <p class="card-text">When standard options fall short, customize every detail of your space, from furniture to branding.</p>
-                    <a href="#" class="image-card-btn">Learn More</a>
+                    <a href="#" class="image-card-btn">Enquire Now</a>
                 </div>
             </div>
             <div class="card">
@@ -145,7 +145,7 @@ function getOfficeSpaceTab()
                 <div class="card-body">
                     <h5 class="card-title">Day Offices</h5>
                     <p class="card-text">A professional office space on demand. Ideal when you need to focus and do your best work.</p>
-                    <a href="#" class="image-card-btn">Learn More</a>
+                    <a href="#" class="image-card-btn">Enquire Now</a>
                 </div>
             </div>
             <div class="card">
@@ -153,7 +153,7 @@ function getOfficeSpaceTab()
                 <div class="card-body">
                     <h5 class="card-title">Office Membership</h5>
                     <p class="card-text">Enjoy flexible access to Day Offices whenever you like, within this building.</p>
-                    <a href="#" class="image-card-btn">Learn More</a>
+                    <a href="#" class="image-card-btn">Enquire Now</a>
                 </div>
             </div>
             <div class="card">
@@ -179,7 +179,7 @@ function getCoworking(){
                     <div class="card-body">
                       <h5 class="card-title">Reserved Workspace</h5>
                       <p class="card-text">Reserve desks as needed in a vibrant shared workspace. Includes a business address and storage.</p>
-                      <a href="#" class="image-card-btn">Learn More</a>
+                      <a href="#" class="image-card-btn">Enquire Now</a>
                     </div>
                   </div>
                   <div class="card">
@@ -187,7 +187,7 @@ function getCoworking(){
                     <div class="card-body">
                       <h5 class="card-title">Daily Coworking</h5>
                       <p class="card-text">Get on-demand access to inspiring coworking spaces, ensuring a desk is available when you need it.</p>
-                      <a href="#" class="image-card-btn">Learn More</a>
+                      <a href="#" class="image-card-btn">Enquire Now</a>
                     </div>
                   </div>
                   <div class="card">
@@ -195,7 +195,7 @@ function getCoworking(){
                     <div class="card-body">
                       <h5 class="card-title">Coworking Pass</h5>
                       <p class="card-text">Looking to hot desk more often? Rent a desk for 5, 10, or unlimited days per month.</p>
-                      <a href="#" class="image-card-btn">Learn More</a>
+                      <a href="#" class="image-card-btn">Enquire Now</a>
                     </div>
                   </div>
                   <div class="card">
@@ -220,7 +220,7 @@ function getVirtualOffice(){
                     <div class="card-body">
                       <h5 class="card-title">Professional Address</h5>
                       <p class="card-text">Establish your business and enhance credibility with a virtual address at our location.</p>
-                      <a href="#" class="image-card-btn">Learn More</a>
+                      <a href="#" class="image-card-btn">Enquire Now</a>
                     </div>
                   </div>
                   <div class="card">
@@ -228,7 +228,7 @@ function getVirtualOffice(){
                     <div class="card-body">
                       <h5 class="card-title">Virtual Office</h5>
                       <p class="card-text">A reputable address with call answering, virtual reception, and business lounge access.</p>
-                      <a href="#" class="image-card-btn">Learn More</a>
+                      <a href="#" class="image-card-btn">Enquire Now</a>
                     </div>
                   </div>
                   <div class="card">
@@ -236,7 +236,7 @@ function getVirtualOffice(){
                     <div class="card-body">
                       <h5 class="card-title">Virtual Office Plus</h5>
                       <p class="card-text">Includes all Virtual Office features, plus meeting rooms and five days of office access monthly.</p>
-                      <a href="#" class="image-card-btn">Learn More</a>
+                      <a href="#" class="image-card-btn">Enquire Now</a>
                     </div>
                   </div>
                   <div class="card">
@@ -262,7 +262,7 @@ function getMeetingRoom(){
                     <div class="card-body">
                       <h5 class="card-title">Meeting Rooms</h5>
                       <p class="card-text">Ideal spaces for meetings, collaboration, and interviews. Book hourly, support available.</p>
-                      <a href="#" class="image-card-btn">Learn More</a>
+                      <a href="#" class="image-card-btn">Enquire Now</a>
                     </div>
                   </div>
                   <div class="card">
@@ -270,7 +270,7 @@ function getMeetingRoom(){
                     <div class="card-body">
                       <h5 class="card-title">Interview rooms</h5>
                       <p class="card-text">Private, professional spaces perfect for interviews, appraisals, or research groups.</p>
-                      <a href="#" class="image-card-btn">Learn More</a>
+                      <a href="#" class="image-card-btn">Enquire Now</a>
                     </div>
                   </div>
                   <div class="card">
@@ -278,7 +278,7 @@ function getMeetingRoom(){
                     <div class="card-body">
                       <h5 class="card-title">Training Room</h5>
                       <p class="card-text">Ideal for training sessions with dedicated space, desks, whiteboards, and screens.</p>
-                      <a href="#" class="image-card-btn">Learn More</a>
+                      <a href="#" class="image-card-btn">Enquire Now</a>
                     </div>
                   </div>
                   <div class="card">
@@ -286,7 +286,7 @@ function getMeetingRoom(){
                     <div class="card-body">
                       <h5 class="card-title">Boardrooms</h5>
                       <p class="card-text">A professional boardroom available on-demand. Ideal for focused meetings and work.</p>
-                      <a href="#" class="image-card-btn">Learn More</a>
+                      <a href="#" class="image-card-btn">Enquire Now</a>
                     </div>
                   </div>
                   <div class="card">
@@ -319,7 +319,7 @@ function getOfficeSpaceMobileCarousel()
                                 <div class="card-body">
                                     <h5 class="card-title">Card title 1</h5>
                                     <p class="card-text">Some quick example text for the first card.</p>
-                                    <a href="#" class="image-card-btn">Learn More</a>
+                                    <a href="#" class="image-card-btn">Enquire Now</a>
                                 </div>
                             </div>
                         </div>
@@ -332,7 +332,7 @@ function getOfficeSpaceMobileCarousel()
                                 <div class="card-body">
                                     <h5 class="card-title">Card title 2</h5>
                                     <p class="card-text">Some quick example text for the second card.</p>
-                                    <a href="#" class="image-card-btn">Learn More</a>
+                                    <a href="#" class="image-card-btn">Enquire Now</a>
                                 </div>
                             </div>
                         </div>
@@ -351,7 +351,7 @@ function getOfficeSpaceMobileCarousel()
                                 <div class="card-body">
                                     <h5 class="card-title">Card title 3</h5>
                                     <p class="card-text">Some quick example text for the third card.</p>
-                                    <a href="#" class="image-card-btn">Learn More</a>
+                                    <a href="#" class="image-card-btn">Enquire Now</a>
                                 </div>
                             </div>
                         </div>
@@ -364,7 +364,7 @@ function getOfficeSpaceMobileCarousel()
                                 <div class="card-body">
                                     <h5 class="card-title">Card title 4</h5>
                                     <p class="card-text">Some quick example text for the fourth card.</p>
-                                    <a href="#" class="image-card-btn">Learn More</a>
+                                    <a href="#" class="image-card-btn">Enquire Now</a>
                                 </div>
                             </div>
                         </div>

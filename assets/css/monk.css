@@ -76,7 +76,7 @@ h1 {
 .org-btn a {
   background: var(--color-bg);
   color: #fff !important;
-  border-radius: 50px;
+  border-radius: 2px;
 }
 .org-btn a:after {
   position: relative;
@@ -174,7 +174,7 @@ h1 {
   gap: 0px;
   background: #fff;
   border: 1px solid var(--color-text);
-  border-radius: 50px;
+  border-radius: 2px;
   overflow: hidden;
 }
 
@@ -183,7 +183,7 @@ h1 {
   padding: 10px 56px;
   font-weight: 600;
   color: var(--color-text);
-  border-radius: 50px !important;
+  border-radius: 2px !important;
 }
 .monk-tab .nav-tabs .nav-link {
   border: none;
@@ -191,16 +191,16 @@ h1 {
 .monk-tab .nav-link:hover {
   color: var(--color-text) !important;
   border: 0px !important;
-  border-radius: 50px !important;
+  border-radius: 2px !important;
   margin: 0px !important;
 }
 
 .monk-tab .nav-link.active {
-  border: 1px solid #000 !important;
+  border: 1px solid var(--color-bg) !important;
   padding: 10px 56px;
   border-radius: 50px;
   color: #fff !important;
-  background: #242325 !important;
+  background: var(--color-bg) !important;
   margin: 0px !important;
 }
 
@@ -234,7 +234,7 @@ h1 {
   padding: 6px 25px;
   border: 1px solid var(--color-bg);
   color: var(--color-bg);
-  border-radius: 50px;
+  border-radius: 2px;
   position: inline;
   transition: 0.3s;
 }

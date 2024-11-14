@@ -16,7 +16,7 @@ require_once "./mail_handler.php";
   <?php getHeader(); ?>
   <main>
     <!-- Banner -->
-    <section class="container py-0 home-banner">
+    <section class=" py-0 home-banner">
       <div class="home-container d-flex justify-content-center ">
         <div class="d-flex flex-column align-items-center justify-content-center gap-0 ">
           <p>Find the perfect workspace tailored to fit your needs and style.</p>
@@ -26,7 +26,7 @@ require_once "./mail_handler.php";
     </section>
 
     <!-- Cards -->
-    <section class="container mt-5 py-0">
+    <!-- <section class="container mt-5 py-0">
       <div class="d-flex flex-wrap flex-lg-nowrap  card-wrapper justify-content-center align-items-center gap-2 gap-lg-4">
         <a href="" class="card-container col col-md-5 col-lg">
           <img class="card-icon" src="./assets/images/our-offerings.svg" alt="">
@@ -54,7 +54,7 @@ require_once "./mail_handler.php";
           <p>Join our community for exclusive benefits and access</p>
         </a>
       </div>
-    </section>
+    </section> -->
 
     <!-- Tabs -->
     <section class="monk-section">
