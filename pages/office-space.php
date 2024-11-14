@@ -30,7 +30,7 @@ require_once "../mail_handler.php";
 
                 </div>
                 <div class="col d-flex justify-content-center align-items-center">
-                    <img src="../assets/images/office-space-service.png" alt="">
+                    <img src="../assets/images/office-space-service.webp" alt="">
                 </div>
 
             </div>
@@ -60,7 +60,7 @@ require_once "../mail_handler.php";
                     Snoozing Monk office spaces provide everything you need to get started seamlessly, from ergonomic furniture to dedicated support services. 
                     You'll also enjoy access to breakout areas and our global network of business lounges.</p>
                 </div>
-                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/space-rental.png" alt=""></div>
+                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/space-rental.webp" alt=""></div>
             </div>
 
             <!-- Layout 2 -->
@@ -72,7 +72,7 @@ require_once "../mail_handler.php";
                      As your needs evolve, we offer scalable options that allow you to expand without the hassle of relocating.
                       Enjoy a workspace that adapts to your team size, project demands, and goals, providing the flexibility to thrive at every stage.</p>
                 </div>
-                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/Flexible-office.png" alt=""></div>
+                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/Flexible-office.webp" alt=""></div>
             </div>
             <!-- Layout 3 -->
             <div class=" d-flex flex-column flex-lg-row service-monk-layout-wrapper">
@@ -82,7 +82,7 @@ require_once "../mail_handler.php";
                     If you're searching for beautifully designed office space for rent, Snoozing Monk provides fully serviced options that suit any team size, letting you focus on growing your business distraction-free. Whether you need a short-term setup,
                      a long-term solution, or the flexibility to adapt as you go, we have an office rental tailored to fit your needs perfectly.</p>
                 </div>
-                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/custom-office.png" alt=""></div>
+                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/custom-office.webp" alt=""></div>
             </div>
         </section>
 

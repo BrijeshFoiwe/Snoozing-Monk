@@ -29,7 +29,7 @@ require_once "../mail_handler.php";
 
                 </div>
                 <div class="col d-flex justify-content-center align-items-center">
-                    <img src="../assets/images/Event Space.png" alt="">
+                    <img src="../assets/images/Event Space.webp" alt="">
                 </div>
 
             </div>
@@ -56,20 +56,20 @@ require_once "../mail_handler.php";
             <!-- Layout 2 -->
             <div class="d-flex flex-column flex-lg-row-reverse  service-monk-layout-wrapper">
                 <div class="col d-flex flex-column justify-content-center  service-monk-content-mid">
-                    <h2>Advantages of Hiring Meeting Rooms.</h2>
+                    <h2>From any occasion to every gathering, we have the space.</h2>
                     <p>
-                    When you book a meeting room, we’ll ensure you receive excellent support. Inform us if you need any extra equipment, and we’ll take care of it for you. Our on-site team will set up your room, ensure everything operates smoothly, 
-                    and provide a warm, friendly welcome to your guests at reception.</p>
+                    Whether it’s a team celebration, a training session, or a client meeting, we provide tailored spaces designed for every type of event.
+                     Our locations are fully equipped and supported by on-site staff to ensure your event runs smoothly, with options to customize the layout and amenities based on your specific requirements.</p>
                 </div>
                 <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/Advantages-meeting-room-tab.png" alt=""></div>
             </div>
             <!-- Layout 3 -->
             <div class=" d-flex flex-column flex-lg-row service-monk-layout-wrapper">
                 <div class="col d-flex flex-column justify-content-center  service-monk-content">
-                    <h2>Meeting Rooms Crafted for Success.</h2>
+                    <h2>Backed by dedicated on-site support staff.</h2>
                     <p>
-                    Our meeting rooms are tailored to foster success, whether you're pitching to a current client or impressing a potential one. We're dedicated to ensuring your training sessions, board meetings, interviews, 
-                    and conferences operate seamlessly, providing all the space, solutions, and support you require.</p>
+                    Simply let us know your event requirements, and our team will manage all the preparations, from setup to any last-minute details. With everything handled,
+                     you can focus on connecting with your guests and creating a memorable experience for everyone attending.</p>
                 </div>
                 <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/meeting-room-crafted-tab.png" alt=""></div>
             </div>

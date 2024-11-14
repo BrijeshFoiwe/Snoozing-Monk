@@ -123,7 +123,7 @@ function getOfficeSpaceTab()
 ?>
     <div class="image-card">
         <p>Our adaptable, fully customizable office rentals are available hourly, daily, or for any duration you require.</p>
-        <div class="d-flex justify-content-between gap-3">
+        <div class="d-flex justify-content-between gap-2">
             <div class="card">
                 <img src="./assets/images/Private-office.webp" class="card-img-top" alt="...">
                 <div class="card-body">
@@ -173,7 +173,7 @@ function getCoworking(){
     ?>
         <div class="image-card">
                 <p>Book a hot desk for the day or secure a Dedicated Desk within the building.</p>
-                <div class="d-flex justify-content-start gap-3">
+                <div class="d-flex justify-content-start gap-2">
                   <div class="card">
                     <img src="./assets/images/reserved-workspace.webp" class="card-img-top" alt="...">
                     <div class="card-body">
@@ -214,7 +214,7 @@ function getVirtualOffice(){
     ?>
         <div class="image-card">
                 <p>Whether you need a virtual presence or a physical space, we offer a package to fit your business needs.</p>
-                <div class="d-flex justify-content-start gap-3">
+                <div class="d-flex justify-content-start gap-2">
                   <div class="card">
                     <img src="./assets/images/address.webp" class="card-img-top" alt="...">
                     <div class="card-body">
@@ -256,7 +256,7 @@ function getMeetingRoom(){
     ?>
          <div class="image-card">
                 <p>Meeting rooms tailored for any purpose, available worldwide. Book by the hour, the day, or for as long as needed.</p>
-                <div class="d-flex justify-content-between gap-3">
+                <div class="d-flex justify-content-between gap-2">
                   <div class="card">
                     <img src="./assets/images/meeting-rooms-tab.webp" class="card-img-top" alt="...">
                     <div class="card-body">
@@ -392,12 +392,12 @@ function getCompanyLogo(){
       <h2>We host the best in our spaces.</h2>
       <!-- Desktop logos -->
       <div class="row d-none d-md-flex row-cols-3 row-cols-lg-6">
-        <div class="col logo-grid-item"><img src="./assets/images/foiwe.webp" alt=""></div>
-        <div class="col logo-grid-item"><img src="./assets/images/carzippi.webp" alt=""></div>
-        <div class="col logo-grid-item"><img src="./assets/images/graphene.webp" alt=""></div>
-        <div class="col logo-grid-item"><img src="./assets/images/proflakes.webp" alt=""></div>
-        <div class="col logo-grid-item"><img src="./assets/images/verbiden.webp" alt=""></div>
-        <div class="col logo-grid-item"><img src="./assets/images/hvpl.webp" alt=""></div>
+        <div class="col logo-grid-item"><img src="./assets/images/foiwe.png" alt=""></div>
+        <div class="col logo-grid-item"><img src="./assets/images/carzippi.png" alt=""></div>
+        <div class="col logo-grid-item"><img src="./assets/images/graphene.png" alt=""></div>
+        <div class="col logo-grid-item"><img src="./assets/images/proflakes.png" alt=""></div>
+        <div class="col logo-grid-item"><img src="./assets/images/verbiden.png" alt=""></div>
+        <div class="col logo-grid-item"><img src="./assets/images/hvpl.png" alt=""></div>
       </div>
       <!-- Mobile Logos -->
       <div id="monkLogoCarousel" class="carousel slide d-block d-md-none">

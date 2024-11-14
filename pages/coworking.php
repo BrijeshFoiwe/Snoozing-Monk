@@ -30,7 +30,7 @@ require_once "../mail_handler.php";
 
                 </div>
                 <div class="col d-flex justify-content-center align-items-center">
-                    <img src="../assets/images/coworking-service.png" alt="">
+                    <img src="../assets/images/coworking-service.webp" alt="">
                 </div>
 
             </div>
@@ -60,7 +60,7 @@ require_once "../mail_handler.php";
                     When you book a hot desk for the day or rent a permanent desk in our coworking space, 
                     everything is fully serviced. Our dedicated support team ensures every detail is handled, allowing you to focus on your best work.</p>
                 </div>
-                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/coworking-needs.png" alt=""></div>
+                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/coworking-needs.webp" alt=""></div>
             </div>
 
             <!-- Layout 2 -->
@@ -71,7 +71,7 @@ require_once "../mail_handler.php";
                     Thanks to our extensive global network of over 4,000 coworking spaces, you can work from virtually anywhere your business takes you. You'll easily find a convenient location nearby in every town, city,
                      and transportation hub, ensuring you always have a workspace when you need it.</p>
                 </div>
-                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/cowork-fits.png" alt=""></div>
+                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/cowork-fits.webp" alt=""></div>
             </div>
             <!-- Layout 3 -->
             <div class=" d-flex flex-column flex-lg-row service-monk-layout-wrapper">
@@ -81,7 +81,7 @@ require_once "../mail_handler.php";
                     Coworking spaces hold universal appeal for all types of businesses, whether you’re a solo startup or a global corporation with offices across five continents.
                      Our flexible coworking options are complemented by expert on-site support, including receptionists, IT assistance, cleaning, and security staff</p>
                 </div>
-                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/coworking-benefits.png" alt=""></div>
+                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/coworking-benefits.webp" alt=""></div>
             </div>
              <!-- Layout 4 -->
              <div class="d-flex flex-column flex-lg-row-reverse  service-monk-layout-wrapper">
@@ -91,7 +91,7 @@ require_once "../mail_handler.php";
                     For the ultimate flexibility, why not visit a nearby coworking space and use a desk whenever it suits you? Hot desking offers
                      a straightforward, cost-effective working solution, ideal for individuals who excel at building new business connections.</p>
                 </div>
-                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/desk-anytime.png" alt=""></div>
+                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/desk-anytime.webp" alt=""></div>
             </div>
               <!-- Layout 5 -->
               <div class=" d-flex flex-column flex-lg-row service-monk-layout-wrapper">
@@ -101,7 +101,7 @@ require_once "../mail_handler.php";
                     If having your own desk in a vibrant shared area appeals to you, consider our Dedicated Desk option. 
                     Dedicated Desk customers also have access to a locker for keeping equipment and personal items secure.</p>
                 </div>
-                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/dedicated-desk.png" alt=""></div>
+                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/dedicated-desk.webp" alt=""></div>
             </div>
             <!-- Layout 6 -->
             <div class="d-flex flex-column flex-lg-row-reverse  service-monk-layout-wrapper">
@@ -111,7 +111,7 @@ require_once "../mail_handler.php";
                     Our workspaces host a vibrant mix of businesses. Renting coworking space allows you to network with local entrepreneurs and business professionals while also connecting at our regular networking events. 
                     Join our global community of 8 million professionals and unlock new opportunities for your business today.</p>
                 </div>
-                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/business-cowork.png" alt=""></div>
+                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/business-cowork.webp" alt=""></div>
             </div>  
         </section>
 

@@ -29,7 +29,7 @@ require_once "../mail_handler.php";
 
                 </div>
                 <div class="col d-flex justify-content-center align-items-center">
-                    <img src="../assets/images/Meeting Rooms.png" alt="">
+                    <img src="../assets/images/Meeting Rooms.webp" alt="">
                 </div>
 
             </div>
@@ -59,7 +59,7 @@ require_once "../mail_handler.php";
                     Our extensive selection of meeting rooms allows you to find the ideal space at any of our locations to meet your requirements. We offer large boardrooms and conference rooms for hosting events, as well as smaller spaces perfect for interviewing candidates, collaborating with your team,
                      or impressing clients. Additionally, we provide purpose-built training facilities, fully equipped with everything you need.</p>
                 </div>
-                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/meeting-room-for-need.png" alt=""></div>
+                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/meeting-room-for-need.webp" alt=""></div>
             </div>
 
             <!-- Layout 2 -->
@@ -70,7 +70,7 @@ require_once "../mail_handler.php";
                     When you book a meeting room, we’ll ensure you receive excellent support. Inform us if you need any extra equipment, and we’ll take care of it for you. Our on-site team will set up your room, ensure everything operates smoothly, 
                     and provide a warm, friendly welcome to your guests at reception.</p>
                 </div>
-                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/Advantages-meeting-room-tab.png" alt=""></div>
+                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/Advantages-meeting-room-tab.webp" alt=""></div>
             </div>
             <!-- Layout 3 -->
             <div class=" d-flex flex-column flex-lg-row service-monk-layout-wrapper">
@@ -80,7 +80,7 @@ require_once "../mail_handler.php";
                     Our meeting rooms are tailored to foster success, whether you're pitching to a current client or impressing a potential one. We're dedicated to ensuring your training sessions, board meetings, interviews, 
                     and conferences operate seamlessly, providing all the space, solutions, and support you require.</p>
                 </div>
-                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/meeting-room-crafted-tab.png" alt=""></div>
+                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/meeting-room-crafted-tab.webp" alt=""></div>
             </div>
                <!-- Layout 4 -->
                <div class="d-flex flex-column flex-lg-row-reverse  service-monk-layout-wrapper">
@@ -90,7 +90,7 @@ require_once "../mail_handler.php";
                     Reserve one of our meeting rooms to gain access to various services and solutions that will ensure your meeting or event is a success, including catering and audiovisual equipment. 
                     Book in advance, and we’ll make sure everything is prepared and ready for you on the day.</p>
                 </div>
-                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/Ready-to-use-tab.png" alt=""></div>
+                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/Ready-to-use-tab.webp" alt=""></div>
             </div>
         </section>
 

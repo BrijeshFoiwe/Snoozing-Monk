@@ -29,7 +29,7 @@ require_once "../mail_handler.php";
 
                 </div>
                 <div class="col d-flex justify-content-center align-items-center">
-                    <img src="../assets/images/Virtual-office-banner.png" alt="">
+                    <img src="../assets/images/Virtual-office-banner.webp" alt="">
                 </div>
 
             </div>
@@ -59,7 +59,7 @@ require_once "../mail_handler.php";
                     Sometimes, a dedicated office isn't necessary, yet a professional presence is still essential for your business at an office address. This is where a virtual office proves invaluable. It enables you to establish a business in any city, whether at home or abroad, 
                     offering a virtual office address and workspace access as needed—without the complexities of renting and managing a dedicated office space.</p>
                 </div>
-                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/Strengthen-buisiness.png" alt=""></div>
+                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/Strengthen-buisiness.webp" alt=""></div>
             </div>
 
             <!-- Layout 2 -->
@@ -70,7 +70,7 @@ require_once "../mail_handler.php";
                     A virtual office offers more than a mailing address. It serves as a foundation for your business in a recognized location, complete with professional staff, workspace, and amenities. 
                     It's a quick, cost-efficient way to establish trust and credibility with customers and stakeholders, allowing you to elevate your business to new heights.</p>
                 </div>
-                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/advantage-virtual-office.png" alt=""></div>
+                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/advantage-virtual-office.webp" alt=""></div>
             </div>
             <!-- Layout 3 -->
             <div class=" d-flex flex-column flex-lg-row service-monk-layout-wrapper">
@@ -80,7 +80,7 @@ require_once "../mail_handler.php";
                     A virtual office offers a wide range of substantial advantages for businesses at every size and stage of development, 
                     benefiting everyone from solo entrepreneurs starting out to large multinational corporations with a robust global presence.</p>
                 </div>
-                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/virtual-included.png" alt=""></div>
+                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/virtual-included.webp" alt=""></div>
             </div>
              <!-- Layout 4 -->
              <div class="d-flex flex-column flex-lg-row-reverse  service-monk-layout-wrapper">
@@ -90,7 +90,7 @@ require_once "../mail_handler.php";
                     A virtual office from Snoozing Monk includes a prestigious business address and professional telephone answering services. You’ll have access to meeting rooms and workspaces as needed, along with mail handling and forwarding. Enjoy the flexibility of our global network of business lounges for a professional environment.
                      This comprehensive package elevates your business presence while minimizing costs.</p>
                 </div>
-                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/virtual-support.png" alt=""></div>
+                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/virtual-support.webp" alt=""></div>
             </div>
               <!-- Layout 5 -->
               <div class=" d-flex flex-column flex-lg-row service-monk-layout-wrapper">
@@ -100,7 +100,7 @@ require_once "../mail_handler.php";
                     No matter your identity or location, a virtual office offers genuine benefits. If you simply need a business address to operate, 
                     we provide a prestigious address within our building to enhance your professional image.</p>
                 </div>
-                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/buisiness address.png" alt=""></div>
+                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/buisiness address.webp" alt=""></div>
             </div>
             <!-- Layout 6 -->
             <div class="d-flex flex-column flex-lg-row-reverse  service-monk-layout-wrapper">
@@ -110,7 +110,7 @@ require_once "../mail_handler.php";
                     No matter where your company aims to expand, we’ll have a virtual office ready for you. You can relocate your virtual office at any time and establish multiple virtual offices across different countries and cities, 
                     with potential savings based on the number you open. Contact our team to help create a customized package that suits your needs.</p>
                 </div>
-                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/virtual-tailored.png" alt=""></div>
+                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/virtual-tailored.webp" alt=""></div>
             </div>  
         </section>
 
