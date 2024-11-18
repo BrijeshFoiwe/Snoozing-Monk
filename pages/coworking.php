@@ -51,7 +51,7 @@ require_once "../mail_handler.php";
 
 
         <!-- Service Layouts -->
-        <section class="service-monk-layout container ">
+        <section class="service-monk-layout container">
             <!-- Layout 1 -->
             <div class=" d-flex flex-column flex-lg-row service-monk-layout-wrapper">
                 <div class="col d-flex flex-column justify-content-center  service-monk-content">

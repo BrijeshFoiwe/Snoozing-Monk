@@ -433,7 +433,7 @@ h1 {
 }
 
 .service-monk-layout {
-  padding: 64px 0px !important;
+  padding: 64px 24px !important;
   font-family: var(--font-family);
 }
 .service-monk-layout h2 {
@@ -443,6 +443,8 @@ h1 {
 
 .service-monk-layout-wrapper {
   gap: 64px;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 .service-monk-content {
   padding: 0px 110px;
