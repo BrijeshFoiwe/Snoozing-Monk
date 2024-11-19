@@ -138,7 +138,7 @@ require_once "./mail_handler.php";
         </div>
         <div class="col-12 col-md d-flex justify-content-center">
           <div class="monk-layout-image">
-            <img src="./assets/images/adapt.png" alt="">
+            <img src="./assets/images/adapt.webp" alt="">
           </div>
         </div>
       </div>
@@ -147,7 +147,7 @@ require_once "./mail_handler.php";
       <div class="monk-layout row  gap-4 gap-md-0">
         <div class="col-12 col-lg d-flex justify-content-center">
           <div class="monk-layout-image">
-            <img src="./assets/images/Hybrid.png" alt="">
+            <img src="./assets/images/Hybrid.webp" alt="">
           </div>
         </div>
         <div class="col-12 col-md d-flex flex-column justify-content-center align-items-start">
