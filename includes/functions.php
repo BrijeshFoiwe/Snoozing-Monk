@@ -44,7 +44,7 @@ function getHeader()
                                 <a href="/event-space">Event Space</a>
                             </li>
                             <li class="nav-item org-btn">
-                                <a href="">Contact us</a>
+                                <a href="/contact-us">Contact us</a>
                             </li>
                             <!-- <li class="nav-item org-btn">
                                 <a href="">+91-80-4200 7225</a>

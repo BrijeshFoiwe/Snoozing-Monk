@@ -15,3 +15,6 @@ RewriteRule ^meeting-rooms$ /pages/meeting-rooms.php [L]
 
 # Rule to map /event-space to /pages/event-space.php
 RewriteRule ^event-space$ /pages/event-space.php [L]
+
+# Rule to map /contact-us to /pages/contact-us.php
+RewriteRule ^contact-us$ /pages/contact-us.php [L]

@@ -50,7 +50,7 @@ require_once "../mail_handler.php";
                     There are many reasons to hold a private or corporate event, whether it's to celebrate your team's 
                     achievements or to host networking events for business growth. No matter the occasion, we’re here to help you organize your event with style.</p>
                 </div>
-                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/meeting-room-for-need.png" alt=""></div>
+                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/organize-any-event.webp" alt=""></div>
             </div>
 
             <!-- Layout 2 -->
@@ -61,7 +61,7 @@ require_once "../mail_handler.php";
                     Whether it’s a team celebration, a training session, or a client meeting, we provide tailored spaces designed for every type of event.
                      Our locations are fully equipped and supported by on-site staff to ensure your event runs smoothly, with options to customize the layout and amenities based on your specific requirements.</p>
                 </div>
-                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/Advantages-meeting-room-tab.png" alt=""></div>
+                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/occasion.webp" alt=""></div>
             </div>
             <!-- Layout 3 -->
             <div class=" d-flex flex-column flex-lg-row service-monk-layout-wrapper">
@@ -71,17 +71,17 @@ require_once "../mail_handler.php";
                     Simply let us know your event requirements, and our team will manage all the preparations, from setup to any last-minute details. With everything handled,
                      you can focus on connecting with your guests and creating a memorable experience for everyone attending.</p>
                 </div>
-                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/meeting-room-crafted-tab.png" alt=""></div>
+                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/requirements.webp" alt=""></div>
             </div>
                <!-- Layout 4 -->
                <div class="d-flex flex-column flex-lg-row-reverse  service-monk-layout-wrapper">
                 <div class="col d-flex flex-column justify-content-center  service-monk-content-mid">
-                    <h2>Ready-to-use Meeting Rooms.</h2>
+                    <h2>Let us take care of your entire event.</h2>
                     <p>
-                    Reserve one of our meeting rooms to gain access to various services and solutions that will ensure your meeting or event is a success, including catering and audiovisual equipment. 
-                    Book in advance, and we’ll make sure everything is prepared and ready for you on the day.</p>
+                    If you'd prefer to leave the event management in capable hands, we’re here to assist. From meticulous planning and ticket allocation to organizing travel and accommodation for your guests,
+                     we’ll take care of every detail, ensuring your event runs flawlessly and stress-free.</p>
                 </div>
-                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/Ready-to-use-tab.png" alt=""></div>
+                <div class="col d-flex justify-content-center align-items-center"><img src="../assets/images/takecare.webp" alt=""></div>
             </div>
         </section>
 

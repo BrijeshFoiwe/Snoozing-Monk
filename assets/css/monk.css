@@ -554,3 +554,14 @@ h1 {
 .service-steps p {
   font-size: 16px;
 }
+
+/* Contact us */
+.form-contact-btn {
+  text-decoration: none;
+  padding: 6px 25px;
+  border: 1px solid var(--color-bg);
+  color: var(--color-bg);
+  border-radius: 2px;
+  position: inline;
+  transition: 0.3s;
+}
